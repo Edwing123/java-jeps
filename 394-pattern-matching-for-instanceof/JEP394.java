@@ -6,10 +6,10 @@ public class JEP394 {
         // is an instance of a class.
         Object obj = "Hello";
 
-        if (obj instanceof String) {
-            var str = (String)obj;
-            System.err.println(STR."The value is \{str}.");
-        }
+        // if (obj instanceof String) {
+        //     var str = (String)obj;
+        //     System.err.println(STR."The value is \{str}.");
+        // }
 
         // This involves testing with [instanceof] and
         // performing a cast.
