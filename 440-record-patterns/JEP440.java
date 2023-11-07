@@ -25,7 +25,7 @@ public class JEP440 {
         }
 
         // It doesn't seem that useful in this example, to be honest.
-        // Though for now I'll check reffering to the proposed
+        // Though for now I'll keep referring to the proposed
         // examples from the JEP + adding my creative touch.
 
         // obj doesn't neccesarly have to be an `Object` in order
