@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/378-text-blocks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/394-pattern-matching-for-instanceof" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/395-records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/440-record-patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/441-pattern-matching-for-switch" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
