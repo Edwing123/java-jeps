@@ -83,7 +83,7 @@ public class JEP378 {
 
         // New escape sequenses to control newlines and whitespace.
         // The \<line-terminator> explicitly suppresses the insertion of a newline character.
-        var sadSingleLinePoem = STR."""
+        var sadSingleLinePoem = """
                                 This is a sad poem. \
                                 Really sad. \
                                 """;
@@ -91,7 +91,7 @@ public class JEP378 {
         System.err.println(sadSingleLinePoem);
 
         // Explicit white space with \s.
-        var whiteSpaceIsNotRemovedWithBackslashS = STR."""
+        var whiteSpaceIsNotRemovedWithBackslashS = """
         \s\s\s      Hello World.             \
               This is nice. \s\s\s\s\s
         """;
